@@ -1,0 +1,11 @@
+{
+    "name": "vs/unitstests",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bożena Pietrzak",
+            "email": "boz3pie@gmail.com"
+        }
+    ],
+    "require": {}
+}
